@@ -15,7 +15,7 @@
 ---
 
 ## Project Background
-The College Trends Analysis dataset is sourced from a project on DataScienceHive and is based on the Integrated Postsecondary Education Data System (IPEDS) Access Databases. These databases compile annual survey data collected by the U.S. Department of Education’s National Center for Education Statistics (NCES), covering approximately 6,400 colleges, universities, and technical or vocational institutions that participate in federal student aid programs. Using this dataset, we examine how tuition costs have evolved over time across different states and explore the key factors influencing tuition at tertiary institutions.
+The College Trends Analysis dataset is sourced from a project on [DataScienceHive](https://www.datasciencehive.com/projects) and is based on the Integrated Postsecondary Education Data System [(IPEDS) Access Databases](https://nces.ed.gov/ipeds/use-the-data/download-access-database). These databases compile annual survey data collected by the U.S. Department of Education’s National Center for Education Statistics (NCES), covering approximately 6,400 colleges, universities, and technical or vocational institutions that participate in federal student aid programs. Using this dataset, we examine how tuition costs have evolved over time across different states and explore the key factors influencing tuition at tertiary institutions.
 
 ---
 

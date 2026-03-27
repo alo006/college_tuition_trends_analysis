@@ -35,6 +35,8 @@ Below is the simplified Entity Relationship Diagram (ERD).
 
 ![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/8d917c0738574d2f4acbc095ffb24ede7bc56bce/Entity%20Diagram%20College%20Tuition%20Analysis.png)
 
+-SQL Data Cleaning and Analysis Query: [View SQL Script](https://github.com/alo006/college_tuition_trends_analysis/blob/6eeca1f5b41d2546e12bbfc130f67ac9a761ec40/College%20Tuition%20Trend%20Analysis.sql)
+
 ---
 
 ## Insights Deep-dive

@@ -30,6 +30,13 @@ At the time of this report, the IPEDS Access Database comprises 53 tables derive
 For our analysis, we compiled data from four primary tables containing information on institutional directory details, tuition, enrolment, and core revenues and expenses. We also incorporated supplementary lookup tables to interpret the IPEDS numeric coding system for selected variables and to map state abbreviations to their full names.
 
 It is important to note that, of the 6,256 institutions in the database, only 550 have complete data for all key variables used in this analysis. Despite this limitation, and in the absence of alternative comprehensive datasets on tertiary institutions, we proceeded with the analysis to extract meaningful insights, acknowledging that the results may not fully represent tuition trends across all states.
-The Entity Relationship Diagram (ERD) can be found on the subsequent page. 
+
+Below is the simplified Entity Relationship Diagram (ERD).
+
+![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/8d917c0738574d2f4acbc095ffb24ede7bc56bce/Entity%20Diagram%20College%20Tuition%20Analysis.png)
 
 ---
+
+## Insights Deep-dive
+
+### Yearly Tuition Trend and Growth Across States

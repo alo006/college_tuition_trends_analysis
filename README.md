@@ -40,3 +40,7 @@ Below is the simplified Entity Relationship Diagram (ERD).
 ## Insights Deep-dive
 
 ### Yearly Tuition Trend and Growth Across States
+
+![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/ed986a9758c5ecfd54563d4a253fc5c22bae9bb0/Statewide%20Teritary%20Tuition.png)
+
+Across all 50 states, on average tuition has been increasing yearly from 2015-2022, from $8371 to $9871.

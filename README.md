@@ -33,7 +33,7 @@ It is important to note that, of the 6,256 institutions in the database, only 55
 
 Below is the simplified Entity Relationship Diagram (ERD).
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/8d917c0738574d2f4acbc095ffb24ede7bc56bce/Entity%20Diagram%20College%20Tuition%20Analysis.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/tmnd4braqe8qfkg77oj8d/Entity-Diagram-College-Tuition-Analysis.png?rlkey=w7xyfvm6xxztf9agq93rlzped&st=ccm71kbt&dl=0)
 
 - SQL Data Cleaning and Analysis Query: [View SQL Script](https://github.com/alo006/college_tuition_trends_analysis/blob/6eeca1f5b41d2546e12bbfc130f67ac9a761ec40/College%20Tuition%20Trend%20Analysis.sql)
 
@@ -43,21 +43,21 @@ Below is the simplified Entity Relationship Diagram (ERD).
 
 ### Yearly Tuition Trend and Growth Across States
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/ed986a9758c5ecfd54563d4a253fc5c22bae9bb0/Statewide%20Teritary%20Tuition.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/1oojdnn4k1t98z128qayu/Statwide-Teritary-Tuition.png?rlkey=5mw59emrtadl55kpb5wmge1mz&st=swdwln55&dl=0)
 
 - Across all 50 states, on average tuition has been increasing yearly from 2015-2022, from $8371 to $9871.
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/Statwide%20Teritary%20Tuition%20(top%20and%20bottom).png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/h4o32ipd8o8t6qlvd1fav/Statwide-Teritary-Tuition-top-and-bottom.png?rlkey=sn215fkzzaodpeou4l70ntut2&st=h6xg8xi6&dl=0)
 
 - By 2022, the five states with the highest tuition are: New Hampshire, Vermont, New Jersey, Michigan, and Connecticut. 
 - In contrast, the five states with the lowest tuition are: Georgia, Florida, Virgin Islands, Micronesia, and Puerto Rico.
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/States%20with%20Greatest%20Tuition%20Growth.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/zxww7l0mgbbfflqhwaua9/States-with-Greatest-Tuition-Growth.png?rlkey=5x6enzmz5r8tzid18p38awdoc&st=8fvlm6fj&dl=0)
 
 - Through examining the difference in tuition between 2022 and 2015, we see that Connecticut and Michigan are also part of the top five states with the most tuition growth, with increases of $4368 and $2914 respectively. 
 - The other three states are Oregon, Rhode Island, and Virginia, with increases of $2910, $2894, and $2769 respectively.
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/States%20with%20Lowest%20Tuition%20Growth.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/twites5mzayjaco7p61bo/States-with-Lowest-Tuition-Growth.png?rlkey=tjx72wsc37p33qx7vw76gh62z&st=vdwpalt8&dl=0)
 
 - The Virgin Islands, Florida, and Georgia are also among three of the five bottom states in terms of tuition growth. The Virgin Islands only had a tuition growth of $221, while Florida and Georgia instead decreased their tuition by $61 and $237 respectively.
 - North Carolina and Wisconsin are the other two states with the bottom five tuition growth, with a tuition increase of only $199 and $148 respectively.
@@ -65,7 +65,7 @@ Below is the simplified Entity Relationship Diagram (ERD).
 
 ### Yearly Revenue and Expenses
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/Yearly%20Revenue%20and%20Expenses.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/4rd8baqso6chad65ip95i/Yearly-Revenue-and-Expenses.png?rlkey=urp32w77mk33ncmh078mjbp7v&st=05edd04r&dl=0)
 
 - The average revenue across all 50 states has been steadily increasing from 2015 at $346million till 2021, where from 2020-2021 there was a sharp increase in revenue. From 2021-2022, revenue decreased to $452million, but overall revenue has increased.
 - The average expense has also been steadily increasing from 2015 at $319million till 2021 when there was a slight decrease. From 2021-2022, the revenue increased to $421million, resulting in an overall increase in expenses.
@@ -73,13 +73,13 @@ Below is the simplified Entity Relationship Diagram (ERD).
 
 ### Revenue and Expense Sources
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/Revenue%20Proportions.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/bdjyo9g6kavjg6mzeuwqp/Revenue-Proportions.png?rlkey=4i2ss68ejmfgj2r1lduuddtft&st=5c4nel5p&dl=0)
 
 - Between 2015 and 2022, there is only significant change in the proportion of revenue coming from tuition fees and government grants compared to the other sources which have remained about the same. 
 - Surprisingly, the proportion of revenue coming from tuition fees has decreased from 32% to 27% despite the increase in tuition statewide, while government grants have increased from 21% to 29%.
 - This suggests that while in general tertiary institutions have been receiving more funding from the government, it isn’t sufficient to cover their expenses, and so they also have to increase their tuition fees to generate enough revenue.
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/Expense%20Proportions.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/gm5q8t64nlbw7omm29dv5/Expense-Proportions.png?rlkey=dxu5t47co7vnetbyq4ps81d21&st=wfk4f71l&dl=0)
 
 - In terms of expenses, only the proportion through instruction and other expenses have changed significantly from 2015 to 2022. 
 - The proportion of instruction-based expenses decreased from 44% to 39%, while other expenses have increased from 9% to 15%.
@@ -87,7 +87,7 @@ Below is the simplified Entity Relationship Diagram (ERD).
 
 ### Enrollment Numbers on Tuition
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/Tuition%20vs%20Enrollment.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/wf8mocgs5yrar9hxcdrn9/Tuition-vs-Enrollment.png?rlkey=iqm397vfv2zd3vcpfzwgd41vn&st=s9igzj80&dl=0)
 
 - From 2015 to 2022, while statewide tuition has increased from 8k to 10k, enrollment remained at around 2k.
 - Enrollment numbers alone appear to have negligible effect on tuition fees. For example, even for states with the five highest tuition growth (Connecticut, Oregon, Virginia, Texas, and Puerto Rico), while their tuition has increased significantly, their enrollment has remained steady.
@@ -95,7 +95,7 @@ Below is the simplified Entity Relationship Diagram (ERD).
 
 ### Raising Tuition Revenue to Meet Expenses
 
-![image alt](https://github.com/alo006/college_tuition_trends_analysis/blob/0a84e57959b3e7714961a126fe4a633f83d26a98/Tuition%20Revenue%20vs%20Expenses.png)
+![image alt](https://dl.dropboxusercontent.com/scl/fi/dxucemrb5h8w4sjvf6j4s/Tuition-Revenue-vs-Expenses.png?rlkey=7ifkvxwwr2x9c9o0sehnm2ojz&st=jtb4l7wl&dl=0)
 
 - From 2015 to 2022, statewide tuition revenue increased from $10B to $12B, while statewide expenses increased from $306M to $399M.
 - For states with the five highest tuition growth (Connecticut, Oregon, Virginia, Texas, and Puerto Rico), both their expenses and tuition revenue have increased significantly. 
